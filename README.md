@@ -6,7 +6,7 @@ Atualmente à procura de estágio curricular nas áreas de sistemas embebidos, f
 
 ## Projetos em Destaque
 
-### [telemetry-sim](https://github.com/daniel-af25/telemetry-sim) — Simulador 2D/3D de Telemetria Automóvel
+### Simulador 2D/3D de Telemetria Automóvel — [telemetry-sim](https://github.com/daniel-af25/telemetry-sim)
 Aplicação web *client-side* em **TypeScript**, **MapLibre GL** e **Three.js** para reconstrução física e visualização de viagens a partir de ficheiros CSV (formato LABSIS v2.2 e ISO 8855):
 
 - **Motor de Física (Web Worker):** calibração de IMU com compensação de inclinação da estrada, modelo paramétrico a partir de um catálogo de ~25 000 veículos, círculo de atrito de Kamm, transferência de carga nas 4 rodas (`ΣFz = m·g`), cinemática WGS84 ↔ ENU com *dead-reckoning* em túneis e interpolação a 60 FPS (validado com 94 testes em Vitest).
