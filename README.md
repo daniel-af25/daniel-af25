@@ -30,4 +30,4 @@ Repositório central onde reúno projetos e relatórios desenvolvidos ao longo d
 ## Contacto
 
 - Email: danielkyyr@gmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/daniel-at-afonso/
